@@ -1,0 +1,1 @@
+The project consist in creating a basic recipe Website using HTML
